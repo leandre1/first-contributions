@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Andreas Sandskär](https://github.com/passar)
 - [Satyam Bhalla](https://github.com/Satyam-Bhalla)
 - [Asim Thapa] ( https://github.com/asimtut )
@@ -11801,3 +11801,4 @@ Bryan Romero
 - [jt120](https://github.com/jt120)
 - [ferminht](https://github.com/ferminhg)
 - [Carlos Fernando Tovar Ceron](https://github.com/CarlosFernandoTovarCeron)
+- [Leandre Bizagwira](https://github.com/leandre1)
